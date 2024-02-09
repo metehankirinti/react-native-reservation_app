@@ -4,7 +4,7 @@ The Online Appointment Application aims to address the inefficiencies in appoint
 
 ![AppUI](/assets/appUI.jpg)
 
-![Gif]((https://github.com/metehankirinti/react-native-reservation_app))
+![Gif]((https://github.com/metehankirinti/react-native-reservation_app/appGif.gif))
 
 
 ## Technologies Used:
